@@ -1,0 +1,10 @@
+{
+    "userId": "6661ddab9b40d5747b2430a5",
+    "shipping": {
+       "method": "USPS Parcel",
+       "cost": 23.95
+    },
+    "payment": {
+       "method": "Visa"
+    }
+ }

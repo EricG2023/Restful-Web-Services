@@ -1,0 +1,50 @@
+{
+    "_id": "6661dd89478f500928b2f1da",
+    "userId": "6661ddab9b40d5747b2430a5",
+    "address": {
+        "billing": {
+            "firstName": "Tom",
+            "lastName": "Jones",
+            "address": "1818 Mocking Bird Lane",
+            "address2": null,
+            "city": "Springfield",
+            "state": "IL",
+            "zip": "62701",
+            "country": "US"
+        },
+        "shipping": {
+            "firstName": "Tom",
+            "lastName": "Jones",
+            "address": "1818 Mocking Bird Lane",
+            "address2": null,
+            "city": "Springfield",
+            "state": "IL",
+            "zip": "62701",
+            "country": "US"
+        }
+    },
+    "products": [
+        {
+            "_id": "6661dd89478f500928b2f1da",
+            "name": "Ancho Chili Rub",
+            "price": 6,
+            "quantity": 1
+        },
+        {
+            "_id": "6661defd112bec629d3031b1",
+            "name": "Alder Plank",
+            "price": 42,
+            "quantity": 10
+        }
+    ],
+    "comments": "Please do not leave product on door steps.",
+    "shipping": {
+        "method": null,
+        "cost": 0
+    },
+    "payment": {
+        "method": null,
+        "confirmationCode": null,
+        "total": 0
+    }
+}

@@ -1,0 +1,4 @@
+routes:
+  - name: "Shopping-cart"
+    prefix: "shopping-cart"
+    path: "./shopping-cart"

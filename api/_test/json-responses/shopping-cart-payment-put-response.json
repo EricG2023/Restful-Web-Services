@@ -1,0 +1,11 @@
+{
+"shipping": {
+    "method": "USPS Parcel",
+    "cost": 23.95
+ },
+ "payment": {
+    "method": "Visa",
+    "confirmationCode": "AZ15FJ",
+    "total": 449.95
+ }
+}

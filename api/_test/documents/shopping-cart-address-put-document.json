@@ -1,0 +1,27 @@
+{
+    "userId": "6661ddab9b40d5747b2430a5",
+    "address": {
+      "billing": {
+        "firstName": "Bill",
+        "lastName": "Smith",
+        "address": "710 S. Pines",
+        "address2": "Apt #2",
+        "city": "Spokane Valley",
+        "state": "WA",
+        "zip": "99202",
+        "country": "US"
+      },
+      "shipping": {
+        "firstName": "Eli",
+        "lastName": "Krohn",
+        "address": "901 Tulip Street",
+        "address2": "Apt B12",
+        "city": "Coulee Dam",
+        "state": "WA",
+        "zip": "99116",
+        "country": "US"
+      }
+    },
+    "comments": null
+  }
+  
