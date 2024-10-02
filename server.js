@@ -4,7 +4,7 @@ const fs = require("fs");
 const path = require("path");
 
 const mongoose = require("mongoose");
-mongoose.connect("mongodb+srv://egoyko351:Imrussian2002!@cluster0.67skgld.mongodb.net/Labs").catch( error => console.log(error));
+mongoose.connect("mongodb+srv://**********@cluster0.67skgld.mongodb.net/Labs").catch( error => console.log(error));
 const app = express();
 const PORT = process.env.PORT || 3750;
 
